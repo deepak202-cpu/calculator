@@ -1,0 +1,26 @@
+.container1{
+    text-align: center;
+    margin: 10px;
+}
+table{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.496);
+    margin-top: 3px;
+    border-radius: 5px;
+}
+button{
+    margin: 3px;
+    font-size: 38px;
+    width: 65px;
+    height: 68px;
+    border-radius: 4px;
+    background-color: rgba(211, 172, 72, 0.77);
+}
+input{
+    font-size: 24px;
+    border-radius: 6px;
+    border: 3px solid black;
+    width: 315px;
+    height: 65px;
+    background-color: rgba(241, 237, 241, 0.836);
+}
